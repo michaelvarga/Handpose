@@ -1,0 +1,41 @@
+export const style = {
+  webcam: {
+    position: "absolute",
+    marginLeft: "auto",
+    marginRight: "auto",
+    left: 0,
+    right: 0,
+    textAlign: "center",
+    zindex: 9,
+    width: 640,
+    height: 480,
+  },
+  canvas: {
+    position: "absolute",
+    marginLeft: "auto",
+    marginRight: "auto",
+    left: 0,
+    right: 0,
+    textAlign: "center",
+    zindex: 9,
+    width: 640,
+    height: 480,
+  },
+  button: {
+    position: "absolute",
+    // marginLeft: "auto",
+    // marginRight: "auto",
+    left: 0,
+    right: 0,
+  },
+  img: {
+    position: "absolute",
+    marginLeft: "auto",
+    marginRight: "auto",
+    left: 400,
+    bottom: 500,
+    right: 0,
+    textAlign: "center",
+    height: 100,
+  }
+}
